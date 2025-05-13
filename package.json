@@ -20,6 +20,7 @@
   "homepage": "https://github.com/franklinsales/lab-apollo-server-nodejs#readme",
   "description": "",
   "dependencies": {
+    "@graphql-tools/merge": "^9.0.24",
     "apollo-server": "^3.13.0",
     "graphql": "^16.11.0"
   }
