@@ -1,0 +1,24 @@
+{
+  "name": "lab-apollo-server-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinsales/lab-apollo-server-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinsales/lab-apollo-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/franklinsales/lab-apollo-server-nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.11.0"
+  }
+}
