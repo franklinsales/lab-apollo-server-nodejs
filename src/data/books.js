@@ -3,4 +3,4 @@ const books = [
   { title: 'The Pragmatic Programmer', author: 'Andrew Hunt' },
 ];
 
-module.exports = { books };
+export {books}

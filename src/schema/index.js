@@ -2,7 +2,7 @@
 import { mergeTypeDefs } from '@graphql-tools/merge';
 
 // Our schema is defined in separate files for better organization and maintainability.
-import bookSchema from './book';
+import bookSchema from './book.js';
 
 // We are merging the schemas into a single schema that can be used by Apollo Server.
 export default mergeTypeDefs([bookSchema]);
